@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "homepage": "https://gabriel-alexander10.github.io/santee-club",
+  "homepage": "https://raphaelfelix.github.io/santee",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
