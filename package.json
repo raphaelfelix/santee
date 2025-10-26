@@ -1,0 +1,13 @@
+{
+  "name": "santee",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "https://gabriel-alexander10.github.io/santee-club",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
